@@ -22,6 +22,5 @@ return {
       Science=2 
     },
     enabled=true 
-  },
-  ["workshop-753844771"]={ configuration_options={ gf="normal" }, enabled=true } 
+  } 
 }
